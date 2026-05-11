@@ -73,8 +73,8 @@ Seeking opportunities as a Data Analyst where I can apply analytical thinking, s
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: yourmail@example.com
+- LinkedIn: https://linkedin.com/in/shivani-uniyal 
+- Email: shivanu.uniyal@gmail.com
 
 ---
 
@@ -87,16 +87,6 @@ Seeking opportunities as a Data Analyst where I can apply analytical thinking, s
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=default&hide_border=false&layout=compact)
 
 ---
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat)
-
----
-
-# 👀 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)
 
 ## ⚡ Fun Fact
 
